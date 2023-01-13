@@ -1,0 +1,86 @@
+body{
+    height: 300px;
+
+    background-color:rgb(245, 235, 235);
+    
+
+}
+.nam
+{
+    color: black;
+}
+.loc
+{
+    color: rgb(26, 25, 25);
+}
+.cop
+{
+    color: black;
+}
+.ens
+{
+    color: rgb(29, 28, 28);
+}
+.lan
+{
+    color: black;
+}
+.lil
+{
+    color: rgb(26, 25, 25);
+
+}
+.personlang  ol li
+{
+    color: rgb(26, 25, 25);
+} 
+
+
+.personlang .skil
+{
+    color: black;
+}
+.con 
+{
+    color: rgb(31, 30, 30);
+
+}
+.act
+{
+    color: black;
+}
+.fom
+{
+    color: black;
+
+}
+.btn1
+{
+    height: 30px;
+    width: 60px;
+    
+    color: black;
+    border-color: rgb(90, 88, 88);
+    border-radius: 12px;
+}
+
+.btn1:hover
+{
+    background-color: slategray;
+    color: white;
+}
+.btn2
+{
+    height: 30px;
+    width: 60px;
+      
+    color: black;
+    border-color: rgb(90, 88, 88);
+    border-radius: 12px;
+     
+}
+.btn2:hover
+{
+    background-color: slategray;
+    color: white;
+}
